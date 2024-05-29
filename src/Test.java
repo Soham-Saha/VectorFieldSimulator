@@ -5,7 +5,7 @@ public class Test {
 			if (args.length >= 1) {
 				AnimatedVectorField.getVectorField((DemoVectorFields) DemoVectorFields.class.getField(args[0].toUpperCase()).get(null)).displayVectorField();
 			} else {
-				AnimatedVectorField vf = AnimatedVectorField.getVectorField(DemoVectorFields.FUZZY_DIPOLE);
+				AnimatedVectorField vf = AnimatedVectorField.getVectorField(DemoVectorFields.UNDULATING);
 				vf.displayVectorField();
 			}
 		} catch (IllegalArgumentException | IllegalAccessException | NoSuchFieldException | SecurityException e) {
