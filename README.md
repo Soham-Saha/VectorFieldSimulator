@@ -1,5 +1,7 @@
 Inspired by https://github.com/anvaka/fieldplay
 
+Test run video at: https://youtu.be/CTr70bCo-iU?si=c7fckQACTprddSih and https://drive.google.com/drive/folders/1-Sy2OXvMilId28cgoLQ3Mg-SGIFVbB38
+
 Not exactly a Java port of anvaka's work, though.
 
 Intended to be as flexible as possible
